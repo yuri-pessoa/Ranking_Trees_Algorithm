@@ -1,10 +1,10 @@
-# Ranking_Trees_Algorithm
-Created by: Prof. Valdecy Pereira D.Sc.
-UFF - Universidade Federal Fluminense (Brazil)
-email:  valdecy.pereira@gmail.com
-Lesson: Ranking Trees - ELECTRE III
-Author's GitHub Repository: <https://github.com/Valdecy>
-Ranking-Trees Multicriteria Algorithm was originally published at: (https://www.emerald.com/insight/content/doi/10.1108/DTA-07-2020-0161/full/html)
+# Ranking_Trees_Algorithm #
+Created by: Prof. Valdecy Pereira D.Sc.  
+UFF - Universidade Federal Fluminense (Brazil)  
+email:  valdecy.pereira@gmail.com  
+Lesson: Ranking Trees - ELECTRE III  
+Author's GitHub Repository: <https://github.com/Valdecy>  
+Ranking-Trees Multicriteria Algorithm was originally published at: (https://www.emerald.com/insight/content/doi/10.1108/DTA-07-2020-0161/full/html)  
 
 ########################################################################################################################################################
 
